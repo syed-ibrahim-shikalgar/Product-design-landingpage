@@ -4,6 +4,7 @@
 ![](https://img.shields.io/badge/-CSS-green)
 ![](https://img.shields.io/badge/-CSS--FLEXBOX-lightblue)
 ![](https://img.shields.io/badge/-CSS--POSITION-red)
+![](https://img.shields.io/badge/-z--index-red)
 ![](https://img.shields.io/badge/-HOVER-blue)
 ![](https://img.shields.io/badge/-NETLIFY-yellow)
 
@@ -24,6 +25,8 @@
 - How to use CSS transition property on a button
 
 - How to work with images to make beautiful web pages
+
+- How to use CSS z-index property
 
 - How to use CSS psuedoselectors like `::after` and `::first-child`
 
