@@ -473,7 +473,7 @@ body {
     }
 
     .image1 img {
-        margin-left: 20px;
+        margin-left: -10px;
         height: 30rem;
     }
 
@@ -512,6 +512,10 @@ body {
 
     .options1 {
         padding-right: 8rem;
+    }
+
+    .stats {
+        margin-left: 10rem;
     }
 
     .years {
@@ -576,8 +580,7 @@ body {
     }
 
     .vintage {
-        margin-left: 30px;
-        margin-right: 50px;
+        margin-left: 10px;
     }
 
     .vintage h2 {
@@ -589,7 +592,7 @@ body {
     }
 
     .foodasa {
-        margin-right: 11rem;
+        margin-right: 6rem;
     }
 
     .foodasa h2 {
@@ -616,8 +619,7 @@ body {
     }
 
     .marco {
-        margin-left: 30px;
-        margin-right: 50px;
+        margin-left: 10px;
     }
 
     .marco h2 {
@@ -629,7 +631,7 @@ body {
     }
 
     .mozaik {
-        margin-right: 11rem;
+        margin-right: 6rem;
     }
 
     .mozaik h2 {
@@ -643,7 +645,7 @@ body {
     .main8 {
         display: flex;
         flex-direction: column;
-        width: fit-content;
+        width: 15rem;
         margin-left: 20px;
     }
 
@@ -652,7 +654,7 @@ body {
     }
 
     .main9 {
-        margin-left: 20px;
+        margin-left: 40px;
     }
 
     .work h1 {
