@@ -503,7 +503,7 @@ body {
     .design {
         display: flex;
         flex-direction: column;
-        margin-left: 8rem;
+        margin-left: 7rem;
     }
 
     .options {
@@ -515,7 +515,7 @@ body {
     }
 
     .stats {
-        margin-left: 10rem;
+        margin-left: 15rem;
     }
 
     .years {
@@ -566,21 +566,21 @@ body {
     }
 
     .image2 {
-        margin-right: 30px;
+        margin-right: 20px;
     }
 
     .image2 img {
-        height: 90px;
+        height: 80px;
         padding: 1rem;
     }
 
     .image3 img {
-        height: 90px;
+        height: 80px;
         padding: 1rem;
     }
 
     .vintage {
-        margin-left: 10px;
+        margin-left: 0px;
     }
 
     .vintage h2 {
@@ -592,7 +592,7 @@ body {
     }
 
     .foodasa {
-        margin-right: 6rem;
+        margin-right: 5rem;
     }
 
     .foodasa h2 {
@@ -604,22 +604,22 @@ body {
     }
 
     .image4 {
-        margin-right: 30px;
+        margin-right: 20px;
     }
 
     .image4 img {
-        height: 90px;
+        height: 80px;
         padding: 1rem;
         width: 10rem;
     }
 
     .image5 img {
-        height: 90px;
+        height: 80px;
         padding: 1rem;
     }
 
     .marco {
-        margin-left: 10px;
+        margin-left: 0px;
     }
 
     .marco h2 {
@@ -631,7 +631,7 @@ body {
     }
 
     .mozaik {
-        margin-right: 6rem;
+        margin-right: 5rem;
     }
 
     .mozaik h2 {
